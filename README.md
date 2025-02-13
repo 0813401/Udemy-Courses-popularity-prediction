@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/8e5d7d11-2393-4f47-8d3c-f8144f96b4a4)
 * Data may contain misalignment
 ![image](https://github.com/user-attachments/assets/5a21ade6-4b0a-4d4f-a079-1cd87f8383c2)
-* Data may contain missing value  
+* Data may contain missing value    
 So, we decide to remove encoding error data, and align data, and the missing data will be dropped out.
 
 ### **Data analysis**
